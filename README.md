@@ -9,7 +9,7 @@ Users can customize text, colors, and font sizes in real time with interactive c
 Check out the live interactive application here:
 👉 **[Live Demo](https://ascii-app-beige.vercel.app)**
 
----
+---------
 
 ## ✨ Features
 
